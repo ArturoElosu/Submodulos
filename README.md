@@ -2,6 +2,4 @@
 
 Clas 4: Git Desarrollo colaborativo (EducacionIT).
 
-Comandos utilizados:
-	> git submodule [...]
-	> 
+Utilizamos el repo Submodulos para utilizarlo, como indicado, en el repo bisect
